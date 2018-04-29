@@ -1,0 +1,74 @@
+https://www.washingtonpost.com/news/fact-checker/wp/2017/11/17/the-gop-claim-that-half-of-the-people-paying-the-obamacare-penalty-make-less-than-25000/
+The GOP claim that half of the people paying the Obamacare penalty make less than $25,000
+no author identified
+Sen. John Cornyn (R-Tex.) said the poor carry the individual mandate's tax burden, but he left out a few specifics. (Meg Kelly/The Washington Post)
+
+“One of the things I hope we do as part of this tax process is repeal the tax on poor Americans. Right now, about half of the people that pay the penalty under the individual mandate are people who make $25,000 or less”
+
+— Sen. John Cornyn, remarks during a GOP news conference, Nov. 14, 2017
+
+On Nov. 14, Senate Republicans tacked a repeal of the Affordable Care Act’s individual mandate onto their tax bill. The mandate, which polls indicate is one of the most disliked aspects of Obamacare, requires Americans to pay a fine if they are uninsured for all or a portion of the year. During a news conference with Senate leaders, Sen. John Cornyn criticized the mandate, calling it a “tax on poor Americans” because “about half” make $25,000 or less.
+
+Cornyn argues that the mandate requires Americans to buy overpriced plans, and people who can’t afford to purchase coverage wind up paying a fee. Yet the nonpartisan Congressional Budget Office estimates eliminating the mandate would increase premiums an average of 10 percent higher than currently anticipated and result in 13 million fewer people having insurance by 2027.
+
+Under the ACA, many low-income Americans qualify for exemptions from the penalty fee. But Cornyn says nearly half of all the penalty payers make $25,000 or less. What’s going on here? Let’s take a look.
+
+The Facts
+
+Cornyn’s figures are based on tax data from 2014 and 2015. In 2014, the first year the penalties were assessed, more than 8 million people paid a penalty, known as the “health care individual responsibility payment,” for being uninsured. In 2015, that number declined to 6.7 million.
+
+Of the nearly 15 million people who paid a fine in 2014 or 2015, 42 percent had an adjusted gross income (AGI) of less than $25,000. That’s where Cornyn gets his “about half” figure. (AGI is before exemptions and deductions. An earlier version of this column incorrectly said before.)
+
+But the trend line is declining. In 2014, 47 percent of the 8 million penalty payers made less than $25,000. In 2015, the most recent year available, low-income people are a smaller share of the people paying a fine. Only 38 percent of the 6.7 million penalty-payers made less than $25,000. The remainder, or 62 percent, made more.
+
+Based on these figures, Cornyn calls the individual mandate a “tax on poor Americans,” since they make up almost half of the people who were uninsured and fined in 2014 and 2015. But Cornyn has conveniently left out a few key data points that undermine this characterization.
+
+For starters, 38 percent of the tax returns received in 2015, more than 57 million, are filed by people making $25,000 or less. So in 2015, they make up a proportionate amount of the people paying a penalty. In other words, the penalty does not unusually burden people in this income category.
+
+Indeed, the number of tax returns which paid this penalty in the under-$25,000 category — 2.5 million — represent just 4 percent of the all tax returns with an AGI of under $25,000.
+
+In 2014 and 2015, people with an AGI of more than $25,000 paid the lion’s share of the taxes collected from the penalty. In 2014, the IRS collected nearly $1.7 billion in penalties, and 77 percent was paid by people with an AGI over $25,000. The next year, the IRS collected $3.1 billion in penalties, and once again 77 percent came from people with an AGI over $25,000.
+
+So even though nearly half of the penalty payers have an AGI of less than $25,000, they aren’t saddled with high fines. That’s because the fines are calculated as either a flat dollar amount or a percentage of household income, whichever is greater. In 2014, the fines were capped at $95 per uninsured adult and $47.50 per child with a family maximum of $285. Fines increased in 2015, to $325 per adult and $162 per child, with a family max of $975.
+
+Moreover, the vast majority of people who paid a penalty — 82 percent — still received a tax refund in 2015, according to the IRS. For the millions of low-income Americans who paid a penalty but received a refund, the Earned Income Tax Credit boosted their income. In 2015, the average EITC was $3,186 for a family with children and $293 for a family without children, according to an analysis by the Center on Budget and Policy Priorities. The average fine in 2015 was $210, with 39 percent paying $100 or less.
+
+Low-income Americans are more likely to be uninsured. And many low-income people in states that did not expand Medicaid fall into a “coverage gap” in which they don’t qualify for Medicaid and are also ineligible for financial assistance in paying for health care.
+
+But many low-income people shouldn’t have to pay a fine at all. The ACA offers several exemptions, including an exemption for people who would qualify for Medicaid under the expansion but who live in a state, such as Texas, that chose not to expand coverage. Contrary to Cornyn’s assertion that low-income people are forced to purchase overpriced plans or face a fee, Americans can claim an exemption when the health insurance available in their area is considered unaffordable.
+
+Still, the IRS data show that 2.5 million people with AGI below $25,000 wound up paying a fine. Health policy experts suggest their payments represent some confusion about their exemption eligibility. In a letter outlining preliminary results from the 2015 tax year, IRS Commissioner John Koskinen pointed out that an estimated 313,000 low-income taxpayers paid a fine when they should have claimed coverage exemption.
+
+In 2014 and 2015, the IRS followed up with individuals who paid a fee in error. The data on individual responsibility payments doesn’t reflect the errors. For the 2018 tax year, the IRS won’t accept returns without insurance information.
+
+But here is the kicker: In 2015, 6.7 million people paid a fine, but there were 7.8 million returns that didn’t indicate any information about their insurance situation, according to a report by the Taxpayer Advocate. These 7.8 million unaccounted-for returns could dramatically skew the data — in favor of Cornyn’s analysis or against it.
+
+We shared our findings with Cornyn’s office but a spokesman declined to comment. [Update: Drew Brandewie, Cornyn’s spokesperson, responded to this fact check. He argues that looking at total dollar amounts instead of the raw number of people is flawed because the fines are pegged to income, so wealthier people will pay a larger share of the penalty even if more low-income people paid in.]
+
+Note: The Kaiser Family Foundation has a nifty calculator, pegged to Zip code, that helps people find out instantly the insurance possibilities available to them and the size of their penalty if they choose not to buy insurance.
+
+The Pinocchio Test
+
+Cornyn claims the individual mandate is tax on poor Americans, claiming that “about half” who pay it make $25,000 or less. But that’s an incomplete statistic that lacks significant context.
+
+In 2015, 38 percent of the people who paid a fine because they lacked insurance had an AGI of under $25,000, which is proportional to the number of low-income people who filed tax returns that year. And the bulk of the fines paid are paid by people with AGI above $25,000. Moreover, only 4 percent of the “poor” actually paid a penalty.
+
+The number of low-income taxpayers who remain uninsured reflects the fact that low-income people are more likely to be uninsured. Many apparently are unaware that they are eligible for exemptions. In 2014 and 2015, the IRS addressed the error by sending letters to people who may have overpaid; for the next tax year it won’t accept returns without insurance information.
+
+Finally, there are 7.8 million returns without any insurance information. Without more information on those 7.8 million returns, it is too soon to judge who is most affected by the individual mandate. Cornyn earns Two Pinocchios.
+
+Two Pinocchios
+
+
+
+
+
+(About our rating scale)
+
+Send us facts to check by filling out this form
+
+Keep tabs on Trump’s promises with our Trump Promise Tracker
+
+Sign up for The Fact Checker weekly newsletter
+
+Fact Checker User Poll Voting is closed on this poll User Poll Results: Do you rate this claim as true or false? More Pinocchios for false, fewer based on your opinion of the statement's truthfulness. (The check mark means you think the statement is true, not that you agree with the rating.) 20% 20% 20% 20% 20% Pardon the interruption! We need to verify that you are an actual person. View Results This is a non-scientific user poll. Results are not statistically valid and cannot be assumed to reflect the views of Washington Post users as a group or the general population.

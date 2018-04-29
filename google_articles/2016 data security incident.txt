@@ -1,0 +1,28 @@
+https://www.uber.com/newsroom/2016-data-incident/
+2016 Data Security Incident
+Dara Khosrowshahi
+As Uber’s CEO, it’s my job to set our course for the future, which begins with building a company that every Uber employee, partner and customer can be proud of. For that to happen, we have to be honest and transparent as we work to repair our past mistakes.
+
+I recently learned that in late 2016 we became aware that two individuals outside the company had inappropriately accessed user data stored on a third-party cloud-based service that we use. The incident did not breach our corporate systems or infrastructure.
+
+Our outside forensics experts have not seen any indication that trip location history, credit card numbers, bank account numbers, Social Security numbers or dates of birth were downloaded. However, the individuals were able to download files containing a significant amount of other information, including:
+
+The names and driver’s license numbers of around 600,000 drivers in the United States. Drivers can learn more here.
+
+Some personal information of 57 million Uber users around the world, including the drivers described above. This information included names, email addresses and mobile phone numbers. Riders can learn more here.
+
+At the time of the incident, we took immediate steps to secure the data and shut down further unauthorized access by the individuals. We subsequently identified the individuals and obtained assurances that the downloaded data had been destroyed. We also implemented security measures to restrict access to and strengthen controls on our cloud-based storage accounts.
+
+You may be asking why we are just talking about this now, a year later. I had the same question, so I immediately asked for a thorough investigation of what happened and how we handled it. What I learned, particularly around our failure to notify affected individuals or regulators last year, has prompted me to take several actions:
+
+I’ve asked Matt Olsen, a co-founder of a cybersecurity consulting firm and former general counsel of the National Security Agency and director of the National Counterterrorism Center, to help me think through how best to guide and structure our security teams and processes going forward. Effective today, two of the individuals who led the response to this incident are no longer with the company.
+
+We are individually notifying the drivers whose driver’s license numbers were downloaded.
+
+We are providing these drivers with free credit monitoring and identity theft protection.
+
+We are notifying regulatory authorities.
+
+While we have not seen evidence of fraud or misuse tied to the incident, we are monitoring the affected accounts and have flagged them for additional fraud protection.
+
+None of this should have happened, and I will not make excuses for it. While I can’t erase the past, I can commit on behalf of every Uber employee that we will learn from our mistakes. We are changing the way we do business, putting integrity at the core of every decision we make and working hard to earn the trust of our customers.

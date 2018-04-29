@@ -1,0 +1,16 @@
+https://qz.com/1135209/the-hague-helped-build-ai-that-could-detect-art-forgeries-with-100-accuracy/?utm_source=&google_editors_picks=true
+This AI algorithm probably means the end of high-end art forgeries
+Dave Gershgorn
+In the mid-1900s, art historian Maurits Michel van Dantzig developed a system to identify artists by their brush or pen strokes, which he called Pictology. Dantzig found shape, length, direction, and pressure all contributed to a kind of stroke signature, unique to each artist.
+
+New research with contributions from The Hague suggests that Pictology might be the key to helping machines understand art, allowing systems to quickly verify whether brushstrokes were from an original painter or a forger.
+
+After analyzing 80,000 brushstrokes from 297 digitized sketches and drawings, an AI system was able to spot forged drawings in the style of Pablo Picasso, Henri Matisse, and Egon Schiele with 100% accuracy. The “fakes” were commissioned recreations of specific drawings, which the algorithms had not been shown previously.
+
+Left, original Schiele. Right, how the AI system analyzed Schiele’s lines.
+
+For now, this work represents a mixture of a computer’s prowess at analyzing massive amounts of data and a bit of human hand-holding. Researchers from the Hague and AI art analytics company Artrendex, took two approaches: Training algorithms to look at the drawings and distinguish the characteristics of brushstrokes on their own, and then separately specifying traits similar to Danztig’s Pictology for the algorithm to measure. When the two were combined, the algorithms’ consensus achieved the foolproof results.
+
+The paper focuses on drawings made by Picasso, Matisse, and Schiele, a simpler task than analyzing paintings where brush strokes might blend together.
+
+Impressionist paintings are next on the docket, the team tells MIT Tech Review.

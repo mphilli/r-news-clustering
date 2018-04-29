@@ -1,0 +1,78 @@
+http://www.eso.org/public/news/eso1737/
+ESO Observations Show First Interstellar Asteroid is Like Nothing Seen Before
+Information Eso.Org
+eso1737 — Science Release
+
+ESO Observations Show First Interstellar Asteroid is Like Nothing Seen Before
+
+VLT reveals dark, reddish and highly-elongated object
+
+For the first time ever astronomers have studied an asteroid that has entered the Solar System from interstellar space. Observations from ESO’s Very Large Telescope in Chile and other observatories around the world show that this unique object was traveling through space for millions of years before its chance encounter with our star system. It appears to be a dark, reddish, highly-elongated rocky or high-metal-content object. The new results appear in the journal Nature on 20 November 2017.
+
+On 19 October 2017, the Pan-STARRS 1 telescope in Hawai`i picked up a faint point of light moving across the sky. It initially looked like a typical fast-moving small asteroid, but additional observations over the next couple of days allowed its orbit to be computed fairly accurately. The orbit calculations revealed beyond any doubt that this body did not originate from inside the Solar System, like all other asteroids or comets ever observed, but instead had come from interstellar space. Although originally classified as a comet, observations from ESO and elsewhere revealed no signs of cometary activity after it passed closest to the Sun in September 2017. The object was reclassified as an interstellar asteroid and named 1I/2017 U1 (`Oumuamua) [1].
+
+“We had to act quickly,” explains team member Olivier Hainaut from ESO in Garching, Germany. “`Oumuamua had already passed its closest point to the Sun and was heading back into interstellar space.”
+
+ESO’s Very Large Telescope was immediately called into action to measure the object’s orbit, brightness and colour more accurately than smaller telescopes could achieve. Speed was vital as `Oumuamua was rapidly fading as it headed away from the Sun and past the Earth’s orbit, on its way out of the Solar System. There were more surprises to come.
+
+Combining the images from the FORS instrument on the VLT using four different filters with those of other large telescopes, the team of astronomers led by Karen Meech (Institute for Astronomy, Hawai`i, USA) found that `Oumuamua varies dramatically in brightness by a factor of ten as it spins on its axis every 7.3 hours.
+
+Karen Meech explains the significance: “This unusually large variation in brightness means that the object is highly elongated: about ten times as long as it is wide, with a complex, convoluted shape. We also found that it has a dark red colour, similar to objects in the outer Solar System, and confirmed that it is completely inert, without the faintest hint of dust around it.”
+
+These properties suggest that `Oumuamua is dense, possibly rocky or with high metal content, lacks significant amounts of water or ice, and that its surface is now dark and reddened due to the effects of irradiation from cosmic rays over millions of years. It is estimated to be at least 400 metres long.
+
+Preliminary orbital calculations suggested that the object had come from the approximate direction of the bright star Vega, in the northern constellation of Lyra. However, even travelling at a breakneck speed of about 95 000 kilometres/hour, it took so long for the interstellar object to make the journey to our Solar System that Vega was not near that position when the asteroid was there about 300 000 years ago. `Oumuamua may well have been wandering through the Milky Way, unattached to any star system, for hundreds of millions of years before its chance encounter with the Solar System.
+
+Astronomers estimate that an interstellar asteroid similar to `Oumuamua passes through the inner Solar System about once per year, but they are faint and hard to spot so have been missed until now. It is only recently that survey telescopes, such as Pan-STARRS, are powerful enough to have a chance to discover them.
+
+“We are continuing to observe this unique object,” concludes Olivier Hainaut, “and we hope to more accurately pin down where it came from and where it is going next on its tour of the galaxy. And now that we have found the first interstellar rock, we are getting ready for the next ones!”
+
+Notes
+
+[1] The Pan-STARRS team’s proposal to name the interstellar objet was accepted by the International Astronomical Union, which is responsible for granting official names to bodies in the Solar System and beyond. The name is Hawaiian and more details are given here. The IAU also created a new class of objects for interstellar asteroids, with this object being the first to receive this designation. The correct forms for referring to this object are now: 1I, 1I/2017 U1, 1I/`Oumuamua and 1I/2017 U1 (`Oumuamua). Note that the character before the O is an okina. So, the name should sound like H O u mu a mu a. Before the introduction of the new scheme, the object was referred to as A/2017 U1.
+
+More information
+
+This research was presented in a paper entitled “A brief visit from a red and extremely elongated interstellar asteroid”, by K. Meech et al., to appear in the journal Nature on 20 November 2017.
+
+The team is composed of Karen J. Meech (Institute for Astronomy, Honolulu, Hawai`i, USA [IfA]) Robert Weryk (IfA), Marco Micheli (ESA SSA-NEO Coordination Centre, Frascati, Italy; INAF–Osservatorio Astronomico di Roma, Monte Porzio Catone, Italy), Jan T. Kleyna (IfA) Olivier Hainaut (ESO, Garching, Germany), Robert Jedicke (IfA) Richard J. Wainscoat (IfA) Kenneth C. Chambers (IfA) Jacqueline V. Keane (IfA), Andreea Petric (IfA), Larry Denneau (IfA), Eugene Magnier (IfA), Mark E. Huber (IfA), Heather Flewelling (IfA), Chris Waters (IfA), Eva Schunova-Lilly (IfA) and Serge Chastel (IfA).
+
+ESO is the foremost intergovernmental astronomy organisation in Europe and the world’s most productive ground-based astronomical observatory by far. It is supported by 16 countries: Austria, Belgium, Brazil, the Czech Republic, Denmark, France, Finland, Germany, Italy, the Netherlands, Poland, Portugal, Spain, Sweden, Switzerland and the United Kingdom, along with the host state of Chile and by Australia as a strategic partner. ESO carries out an ambitious programme focused on the design, construction and operation of powerful ground-based observing facilities enabling astronomers to make important scientific discoveries. ESO also plays a leading role in promoting and organising cooperation in astronomical research. ESO operates three unique world-class observing sites in Chile: La Silla, Paranal and Chajnantor. At Paranal, ESO operates the Very Large Telescope and its world-leading Very Large Telescope Interferometer as well as two survey telescopes, VISTA working in the infrared and the visible-light VLT Survey Telescope. ESO is also a major partner in two facilities on Chajnantor, APEX and ALMA, the largest astronomical project in existence. And on Cerro Armazones, close to Paranal, ESO is building the 39-metre Extremely Large Telescope, the ELT, which will become “the world’s biggest eye on the sky”.
+
+Links
+
+Contacts
+
+Olivier Hainaut
+
+ESO
+
+Garching, Germany
+
+Tel: +49 89 3200 6752
+
+Email: ohainaut@eso.org
+
+Karen Meech
+
+Institute for Astronomy
+
+Honolulu, Hawai`i, USA
+
+Cell: +1-720-231-7048
+
+Email: meech@IfA.Hawaii.Edu
+
+Richard Hook
+
+ESO Public Information Officer
+
+Garching bei München, Germany
+
+Tel: +49 89 3200 6655
+
+Cell: +49 151 1537 3591
+
+Email: rhook@eso.org
+
+Connect with ESO on social media

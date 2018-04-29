@@ -1,0 +1,30 @@
+https://www.voicebot.ai/2017/11/21/youtube-back-amazon-echo-show/
+YouTube is Back on Amazon Echo Show
+no author identified
+YouTube is Back on Amazon Echo Show
+
+YouTube is back on Amazon Echo Show today. This was a mini-controversy back in September when Google removed YouTube access from Echo Show. At the time, Google said the removal was related to a terms of service violation. “Amazon’s implementation of YouTube on the Echo Show violates our terms of service, creating a broken user experience.” What a broken user experience meant appears to be a non-standard YouTube display. The images below depict how YouTube previously looked on Echo Show and how it looks now.
+
+An Amazon representative responded to a Voicebot request for comment by suggesting that not only is YouTube back, but that the company is committed to providing several sources of video content to Echo Show users.
+
+We’re excited to offer customers the capability to watch even more video content from sources such as Vimeo, YouTube, and Dailymotion on Echo Show. More video sources will be added over time.
+
+User Experience for Voice-First Devices with Screens
+
+I prefer the previous layout from a UI perspective. It’s a tighter user experience and enables easy voice navigation. The new implementation requires touch to select a video. After you start a video, you can use voice commands to stop and resume the video. However, you cannot make it full screen without touching the screen. And, when you do select full screen, the video doesn’t actually go to full screen. It stays the same size and simply removes the other video options snippets from the screen.
+
+However, YouTube design is not about user experience. It is optimized to get more YouTube views on its content. The original Echo Show layout displayed only 2.5 video cards to choose from. The new layout offers five choices and looks similar to a desktop or table UI for YouTube today. Here is what it looks like on video.
+
+You Can Still Get The Old Style, Sort Of
+
+What you see above is what happens when you ask Alexa to open YouTube. When you ask Alexa to search YouTube you see something more like old user experience.
+
+This format enables you to select a video by voice and you can even choose a video by number which has a higher voice recognition success rate than attempting to vocalize the entire YouTube title. It also enables you to say, “scroll right” to see more videos. When you select a video to play, it provide a similar view as the other images for the new layout with the video on the left and other video options on the right. You can say, “Alexa, back,” to go back to your search screen which is nice. You may also have noticed that the search results are provide by Bing as that is the default search engine for Alexa. However, the new layouts make it harder to navigate YouTube completely by voice which is a step backwards.
+
+Integrating Voice Interaction with Screens
+
+YouTube was designed for click and touch interaction. Trying to replicate that for a voice-first user interface requires more than just a simple retrofit. The user experience is simply different and needs to be updated for voice. We hope to see YouTube offer some more latitude in its terms of service going forward to facilitate better voice user experience. For now, this is a big win for Amazon to get YouTube back on Echo Show and just in time for the Holiday sales to pick up.
+
+Follow @bretkinsella
+
+1

@@ -1,0 +1,42 @@
+https://www.nytimes.com/2017/11/21/technology/net-neutrality-repeal-questions.html
+Net Neutrality Repeal: What Could Happen and How It Could Affect You
+Steve Lohr
+The brand-name internet companies like Google, Facebook, Amazon and Netflix, analysts say, will comfortably be able to pay the higher rent. It will not affect their business, though it may crimp their profits. Avoiding higher prices is one reason the major internet companies have been champions of net neutrality.
+
+But higher prices may be prohibitive for start-up companies and new voices in the media and entertainment worlds. W. Kamau Bell, a comedian and host of the CNN documentary series “United Shades of America,” recently described in The New York Times how the internet is so often the path to popular and commercial success for newcomers. They upload a video and it goes viral.
+
+That will no longer be true, Mr. Bell wrote, without net neutrality rules that “ensure that anyone who puts something on the internet has a fair shot at finding a life-changing audience.”
+
+The government-backed guarantee of equal access is why public interest groups, nongovernmental organizations, charities and millions of private citizens wrote to the F.C.C. in support of the net neutrality rules.
+
+But the broadband and telecom companies — and some economists — say that the freedom to charge different prices for different products and services is vital to healthy markets. That kind of “price discrimination,” they say, is the fuel of innovation and efficiency.
+
+In a public comment earlier this year to the F.C.C., AT&T called the Obama-era rules “an unprecedented regulatory overreach for which there is no economic or marketplace justification.”
+
+The F.C.C. rules mandated net neutrality principles under a utility-style telecommunications law, called Title 2, that dates to 1934. The carriers fear that it all but ensures price regulation.
+
+Advertisement Continue reading the main story
+
+“What they really object to is Title 2, not the net neutrality principles,” said Craig Moffett, an independent analyst.
+
+Photo
+
+So Whom Do You Trust?
+
+The answer, like so many these days, is politically charged. The repeal reflects the conservative backlash against government regulation, which has been a hallmark of the Trump administration.
+
+Tim Wu, a law professor at Columbia University who is credited with coining the phrase “net neutrality,” said the repeal plan not only rolls back the Obama-era rules, it goes further. It specifically permits broadband carriers to block media content, Mr. Wu said, an added power which was not the case during the administration of George W. Bush.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“An allowance of blocking is really pretty shocking.” Mr. Wu said in an email.
+
+Yet if government is in retreat, then consumers are left to trust the behavior of the internet-access companies like Charter and AT&T. In their filings with the F.C.C., the companies have claimed that faith would be well founded. Market incentives, Charter told the F.C.C., push the companies to provide the best service to its customers, catering to consumer demand.
+
+Charter said it voluntarily adheres to net neutrality principles, and will continue to do so. “We do not block, throttle, or otherwise interfere with the online activity of our customers,” the company said.
+
+But a weakness in the free-market argument, industry analysts say, is that in some regional and rural markets, households have only one internet provider available to them. That undermines the theory that competition will protect consumers.
+
+Roger L. Kay, an independent technology analyst, predicted that larger bills — not content blocking — would be the most likely result. If the big internet and media companies will have to pay their carriers more for high-speed services, the expenses will trickle down to households.
+
+Consumers, Mr. Kay said, “will end up paying higher prices for essentially the same service.”

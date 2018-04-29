@@ -1,0 +1,30 @@
+https://techcrunch.com/2017/11/09/after-disturbing-reports-youtube-kids-implements-new-policy-to-flag-inappropriate-videos-targeted-at-children/?ncid=tcep&google_editors_picks=true
+YouTube implements new policy to flag inappropriate videos targeted at children
+Sarah Buhr, Sarahbuhr, Minutes Ago Jonathan Shieber, Minutes Ago Lucas Matney, Hour Ago Lucas Matney, Ingrid Lunden, Hour Ago Fitz Tepper, Hour Ago Sarah Buhr, Hour Ago Frederic Lardinois, Hour Ago Darrell Etherington
+A New York Times piece and a subsequent Medium post this week highlighted an ongoing problem with YouTube Kids — bizarre and disturbing videos aimed at young children using key words and popular children’s characters.
+
+Now YouTube says it is putting in place a new process to age-restrict these types of videos in the main YouTube app.
+
+“Age-restricted content is automatically not allowed in YouTube Kids.” YouTube told the Verge, which was one of the first to report the story.
+
+But the new policy allows users to flag this type of inappropriate content in the main app, which has implications for the Kids app as well. However, YouTube said the change was not in direct response to recent coverage but that it had been formulating this new policy for a while.
+
+YouTube Kids launched in 2015 to bring children suitable content, but these sometimes gruesome videos portraying sex, drugs and violence have been sneaking their way in for some time.
+
+YouTube originally addressed the issue by allowing the algorithm to weed out much of the inappropriate content, but that clearly hasn’t been working.
+
+One recent example highlighted in the Medium post was of the cartoon character Peppa Pig drinking bleach. Another video showed Peppa getting her teeth violently yanked at the dentist.
+
+Obviously, these were not sanctioned videos made by the producers of Peppa Pig. What’s happening is that at first innocent programs for children could be replaced by disturbing videos not suitable for them. But, despite filters put in place to prevent such videos, they still showed up on the children’s platform.
+
+In August of this year, YouTube announced it would not allow video creators to make money off the “inappropriate use of family characters.” The new policy is now taking those measures one step further to prevent inappropriate videos from uploading to the Kids app.
+
+YouTube has confirmed with TechCrunch that content uploaded in the main app does not automatically go into the the Kids app. Instead, it takes several days to populate. The new policy should now add an extra layer of protection beyond the filters already in place.
+
+YouTube says it also provides dedicated human teams to review flagged videos 24/7. These human teams have always been in place, but now YouTube hopes with the new policy training this will cut down on disturbing content in YouTube Kids.
+
+Further, parents already have tools to block certain channels they don’t like and turn search on or off. YouTube also recently rolled out kid profiles.
+
+Plenty of parents I’ve spoken to privately have had their concerns about YouTube Kids. Will this be enough to change their mind or to protect kids from seeing inappropriate content on YouTube Kids? We’ll have to wait to see how it goes here.
+
+One thing is clear, YouTube Kids needs a lot more safeguards in place than the regular YouTube app to protect kids and filter out all the weird, gross and crazy content people come up with.

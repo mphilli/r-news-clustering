@@ -1,0 +1,18 @@
+https://www.theverge.com/2017/11/21/16684818/google-location-tracking-cell-tower-data-android-os-firebase-privacy
+Google admits it tracked user location data even when the setting was turned off
+Nov
+Android phones gather your location data and send it to Google, even if you’ve turned off location services and don’t have a SIM card, Quartz reported today.
+
+The term “location services” oftentimes refers to exact GPS data for app usage, such as Google Maps finding your best commute route, or Uber figuring out exactly where you’re standing to let drivers know your pickup point. Quartz’s report details a practice in which Google was able to track user locations by triangulating which cell towers were currently servicing a specific device.
+
+It’s a practice that customers can’t opt out of
+
+Since January, all kinds of Android phones and tablets have been collecting the addresses of nearby cellular towers and sending the encrypted data to Google’s push notifications and messaging management system when connected to the internet. It’s a practice that customers can’t opt out of — even if their phones are factory reset.
+
+A Google spokesperson said in a statement to The Verge that all modern Android phones use a network sync system that requires mobile country codes and mobile network codes, so tower info called “Cell ID” codes were considered an “additional signal to further improve the speed and performance of message delivery.” Google ultimately discarded the cell tower data and didn’t go through with the original plan.
+
+A source familiar with the matter stated that Google added the cell tower data-collecting feature to improve its Firebase Cloud Messaging, where devices have to ping the server at regular intervals in order to receive messages promptly.
+
+The findings are surprising, given that cell tower data is usually held by carrier networks and only shared with outside companies under extreme circumstances. Through Google’s practices this year, an individual’s particular location within a quarter-mile radius or less could be determined with the addresses of multiple cell towers. This has particular security implications for individuals who wish to not be tracked, meaning that the safest way to avoid being tracked at all is probably to stick to burner phones. It could also create a bigger target for hackers looking to obtain personal information.
+
+An update that removes this cell tower data-collecting feature will roll out by the end of this month, according to Google. Google’s terms of service, at the time of publish, still vaguely state, “When you use Google services, we may collect and process information about your actual location” using “various technologies... including IP address, GPS, and other sensors that may, for example, provide Google with information on nearby devices, Wi-Fi access points and cell tower.” Google does offer details on how to control Google’s location access points, though after reading through the instructions, the company could admittedly do a better job of making this clearer and simpler for its general consumers.

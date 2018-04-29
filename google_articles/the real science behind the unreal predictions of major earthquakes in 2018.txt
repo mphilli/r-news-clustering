@@ -1,0 +1,72 @@
+https://www.washingtonpost.com/news/speaking-of-science/wp/2017/11/21/the-real-science-behind-the-unreal-predictions-of-major-earthquakes-in-2018/
+The real science behind the unreal predictions of major earthquakes in 2018
+no author identified
+
+
+A view of the Italian town Pescara del Tronto, which was destroyed by an earthquake in August 2016. (Giuseppe Bellini/Getty Images)
+
+Rebecca Bendick would like you not to panic.
+
+The University of Montana geophysicist knows you may have read the articles warning about “swarms of devastating earthquakes” that will allegedly rock the planet next year thanks to a slowdown of the Earth's rotation. And she feels “very awful” if you've been alarmed. Those dire threats are based on Bendick's research into patterns that might predict earthquakes — but claims of an impending “earthquake boom” are mostly sensationalism.
+
+Here's what the science actually says.
+
+There is no way to predict an individual earthquake. Earthquakes occur when potential energy stored along cracks in the planet's crust gets released, sending seismic waves through the Earth. Since scientists know where those cracks exist, and how they are likely to convulse, they can develop forecasts of the general threat for an area. But the forces that contribute to this energy buildup and trigger its release are global and complex, and we still cannot sort out exactly how it might unfold.
+
+In a paper published in August in the journal Geophysical Research Letters, Bendick and colleague Roger Bilham, a geophysicist at the University of Colorado at Boulder, did find a curious correlation between clusters of certain earthquakes and periodic fluctuations in the Earth's rotation. By examining the historical earthquake record and monitoring those fluctuations, scientists might be able to forecast years when earthquakes are more likely to occur, they suggest.
+
+“Something that people have always hoped to find . . . is some kind of a leading indicator for seismicity, because that gives us a warning about these events,” Bendick said Monday.
+
+But that conclusion is by no means set in stone. It hasn't been demonstrated in the lab or confirmed by follow-up studies. Several scientists have said they're not yet convinced by Bendick's and Bilham's research.
+
+“The main thing I came away thinking was real old-fashioned scientific ‘let's check this’ kind of thoughts,” research geophysicist Ken Hudnut told Popular Science. Hudnut, who works on earthquake-risk programs at the U.S. Geological Survey, was not involved in the paper.
+
+And that reaction is okay with Bendick. That's how these things are supposed to go. “Someone says something kind of marginally outlandish, and everyone checks their work and that’s how science progresses,” she said.
+
+Historically, the field of earthquake forecasting has seen some particularly outlandish claims. People have tried to predict temblors based on the behavior of animals, gas emissions from rocks, low-frequency electric signals rippling through the Earth — all without much success.
+
+For that reason, Bendick said, “it's a little bit scary to get into the game.” But getting a prediction right can mean the difference between life and death for countless people. The stakes are too high not to try.
+
+For their recent paper, she and Bilham looked through the century-long global earthquake record to see whether they could spot any signs that temblors around the world are linked. Initially, the data appeared completely random. But then Bendick and Bilham added a new number to their analysis: the “renewal interval,” or the amount of time a given earthquake zone requires to build up potential energy for a really big quake.
+
+“Basically you can think of earthquakes as something like a battery or a neuron; they have a certain amount of time they need to be charged up,” Bendick said.
+
+A certain class of earthquakes — those with a magnitude of 7.0 or more, and a short renewal interval between 20 and 70 years — seemed to cluster in the historical record. Every three decades or so, the planet seemed to experience a bunch of them — as many as 20 per year, instead of the typical 8 to 10. It was as if something was causing the earthquakes to synchronize, even though they were happening in spots scattered around the globe.
+
+Contrary to some reports on the study, “it's not exactly the case that every 32 years we have a bad patch,” Bendick said. “If it were that, people would have found [the pattern] ages ago. That would be super obvious in the record.”
+
+Instead, she explained, “events with that renewal interval happen together more often than they happen at random, and that pattern is statistically significant.”
+
+Sure, it's a less flashy finding than, “we know when earthquakes will happen,” she acknowledged. But that's geophysics for you. “We're scientists, not magicians,” she said.
+
+Next, Bendick and Bilham tried to figure out what mechanism might explain these earthquake clusters. They studied a wide variety of global phenomena that unfold over the same time scales: sloshing of the molten rock in the mantle, ocean circulation changes, momentum transfer between the Earth's core and the lithosphere (the planet's solid, outermost shell).
+
+The best fit were tiny, cyclical changes in the speed of the Earth's rotation. The planet slows down infinitesimally every 30 years or so, and about five years later, a cluster of these severe, short-interval earthquakes appears.
+
+Russian geophysicists Boris Levin and Elena Sasorova have pointed out this correlation before, Bendick noted. So she and Bilham tried to take it a step further: They found a mechanism that might link the Earth's rotation and clusters of quakes.
+
+See, when the Earth's rotation rate changes, its shape shifts. As the planet speeds up, mass moves toward the equator, much the way a dancer's skirt flares out when she spins. When it slows, that mass shifts back toward the poles. The cumulative effect is tiny — a millimeter difference in the width of the globe. But if potential energy has already built up at a number of faults — “if they're locked and loaded, as we'd say in Montana,” Bendick noted — “that tiny change is enough to kick some proportion of the faults over into their failure mode, which is earthquakes.”
+
+Earth is at the end of a slowing period, Bendick pointed out, and the historical record would indicate another “cluster” may be on its way.
+
+She and Bilham hope the pattern might help scientists and public officials make some sense of the Earth's unpredictable shaking. If disaster planners can say with some assurance that the planet is entering a period in which quakes are more likely, they might have an easier time making the case for preparedness measures.
+
+But that doesn't necessarily mean 2018 will be a particularly devastating year. For one thing, the kinds of temblors Bendick and Bilham analyzed happen in areas that are already earthquake-prone — Japan, New Zealand, the West Coast of the United States. For people who live in those regions, there is always a risk of a quake, and it is always good to be prepared.
+
+Their study is about probabilities, not predictions, Bendick cautioned. Earth's slowing doesn't mean that a quake will happen in the next year or so, just that the likelihood may have gone up.
+
+Moreover, this pattern of earthquake occurrence is definitely not the only factor influencing the Earth's behavior — if it were, scientists would have noticed the pattern a long time ago. There are doubtless other earthquake cycles on the planet, driven by phenomena not considered in the paper.
+
+The research got a lot of attention after Bilham presented it at the October meeting of the Geological Society of America. Several critics noted that correlation is not causation — earthquake clusters and fluctuations of Earth's rotation might happen on the same time scales, but that doesn't mean they are linked.
+
+Bendick acknowledged that there is less evidence for the proposed mechanism than for the pattern itself. But she's confident the pattern is there.
+
+“I think this is likely to inspire many people to look at this pattern, and it's possibly someone will come up with an even better explanation,” she said.
+
+Read more:
+
+Perspective | Please stop annoying this NASA scientist with your ridiculous Planet X doomsday theories
+
+7 million Americans at risk of man-made earthquakes, USGS says
+
+Could major earthquakes be caused by the moon?

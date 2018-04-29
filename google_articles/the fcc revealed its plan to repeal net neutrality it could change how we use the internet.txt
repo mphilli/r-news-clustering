@@ -1,0 +1,66 @@
+https://www.usatoday.com/story/tech/news/2017/11/21/net-neutrality-rules-face-demise-fcc-vote-coming-next-month/880061001/
+The FCC revealed its plan to repeal net neutrality. It could change how we use the Internet
+Mike Snider, Published A.M. Et Nov.
+CLOSE FCC Chairman Ajit Pai proposed a plan that would eliminate Obama-era regulations. Video provided by Newsy Newslook
+
+Federal Communications Commission Chairman Ajit Pai speaks during the 2017 NAB Show at the Las Vegas Convention Center on April 25, 2017 in Las Vegas, Nevada. The FCC chairman supports an overhaul of the net neutrality rules passed in 2015. (Photo: Ethan Miller, Getty Images)
+
+The Federal Communications Commission will vote next month to repeal the net neutrality rules championed by President Obama, a move that will likely change how we use the Internet.
+
+New proposed regulations are being circulated among the commission today, FCC Chairman Ajit Pai said Tuesday. The rules, which the commission will vote on at its Dec. 14 meeting, would replace current Open Internet or net neutrality rules, which prevented Internet service providers (ISPs) from blocking or throttling legal content users sought to access, as well as preventing ISPs from accepting payment to prioritize some data.
+
+Pai has criticized the regulations as heavy-handed and an overreach of the FCC's power that stifled ISP investment in network expansion and faster broadband connections.
+
+Released from the current regulations with more business-friendly rules, ISPs could more freely experiment with new services for customers and expand their networks, says Pai, who will release the proposed rule changes to the public Wednesday.
+
+"Under my proposal, the federal government will stop micromanaging the Internet," Pai said in a statement Tuesday. "Instead, the FCC would simply require Internet service providers to be transparent about their practices so that consumers can buy the service plan that’s best for them and entrepreneurs and other small businesses can have the technical information they need to innovate."
+
+Passage of the rules would be seen as a victory for big telecom and cable companies such as AT&T, Comcast and Verizon. More than 94.5 million U.S. homes subscribe to broadband service, according to Leichtman Research Group.
+
+
+
+But consumer advocates and Internet companies including Facebook, Google and Netflix are concerned that telecom and cable companies could give preferential benefit to their own services and content.
+
+
+
+“Gutting net neutrality will have a devastating effect on free speech online," said Jay Stanley, senior policy analyst with the American Civil Liberties Union, in a statement. "Without it, gateway corporations like Comcast, Verizon, and AT&T will have too much power to mess with the free flow of information.”
+
+More: What is net neutrality and what would its reversal mean?
+
+As a commissioner, Pai voted against the Obama-supported rules in 2015 when Democrat Tom Wheeler was chairman. New rules would restore a "light-touch regulatory approach," said Pai, a Republican appointed by President Trump.
+
+Today, I’m proposing to repeal the heavy-handed Internet regulations imposed by the Obama Administration and to return to the light-touch framework under which the Internet developed and thrived before 2015. In @WSJopinion: https://t.co/uDIiKr6YHF — Ajit Pai (@AjitPaiFCC) November 21, 2017
+
+Opinion: Protect net neutrality and Internet freedom: World Wide Web inventor
+
+The new regulations will give ISPs more leeway in their business practices than the Wheeler-championed rules against prioritizing some content over other content, possibly for payment. Also jettisoned is an Internet conduct standard meant to prevent ISPs from unreasonable interference with consumer's access to destinations on the Net.
+
+ISPs will need to declare any throttling, blocking or prioritization of content, the FCC says, and any actions could run afoul of antitrust laws and regulations enforced by the Federal Trade Commission, which now will gain enforcement powers including over consumers' online privacy.
+
+The FCC began the process to create rules and overturn the current ones in May.
+
+Follow USA TODAY Tech on Facebook
+
+Opponents to the 2015 rules find fault in the reliance in regulations within The Communications Act of 1934 formulated for telephone companies. But proponents of the net neutrality rules say that legal framework provides a strong enforcement grounding to protect consumers.
+
+A hot-button issue, the rules rollback generated record input at the FCC, which received more than 22 million public comments. Groups on both sides of the issue complained about bogus comments being filed in the process and the FCC says more than 7.5 million comments read exactly the same and came from about 45,000 names, meaning each one sent hundreds. The influx surpassed the then-record comment filings of nearly 4 million comments during the consideration of the 2015 rules.
+
+With a Republican majority on the FCC, passage of the proposed rules is a certainty. Republican commissioner Michael O'Rielly joined Pai in voting against the 2015 rules and Republican Brendan Carr, approved to the FCC in August by the Senate, said he plans to vote to approve the new regulations.
+
+”
+
+Democratic commissioners Mignon Clyburn and Jessica Rosenworcel joined then-Chairman Wheeler in approving the 2015 rules. Overturning them, Clyburn said Tuesday in a statement, "would dismantle net neutrality as we know it"
+
+Net neutrality and the FCC's ability to regulate the Internet has been a hotly debated and litigated subject for more than a decade. The 2015 rules were proposed because regulations passed in 2010 were tossed out by a federal court in 2014 after Verizon challenged them.
+
+Expect another legal challenge once the FCC passes the rules next month. In the meantime, supporters of the current rules plan protests between now and the FCC vote. A "Save the Net" Wednesday event is planned for Nov. 29. And Dec. 7 protests are planned at Verizon stores across the country. FCC Chairman Pai worked as an attorney for Verizon in 2001 to 2003.
+
+BREAKING: The @FCC will unveil its final plan to kill #NetNeutrality today. PROTEST at Verizon stores nationwide on Dec 7 https://t.co/OvdNJe0Idhpic.twitter.com/R9CyKlHsc3 via @IDLtweets — Fight for the Future (@fightfortheftr) November 21, 2017
+
+More: The FCC votes to overturn net neutrality
+
+More: FCC Chairman takes a swing at net neutrality
+
+Follow USA TODAY reporter Mike Snider on Twitter: @MikeSnider.
+
+Read or Share this story: https://usat.ly/2AZBsOo

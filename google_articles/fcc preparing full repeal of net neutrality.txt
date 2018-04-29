@@ -1,0 +1,53 @@
+http://www.popularmechanics.com/technology/infrastructure/a13817671/fcc-net-neutrality-full-repeal-2017/
+FCC Preparing Full Repeal of Net Neutrality
+Eric Limer
+The Federal Communications Commission, under Chairman Ajit Pai, is preparing to completely undermine the founding principle that has defined a free and open internet since the foundation of the World Wide Web. The FCC has today released a plan to completely roll back all net neutrality legislation under the guise of "restoring internet freedom."
+
+Advertisement - Continue Reading Below
+
+This is not an enormous surprise. The principle of net neutrality—which ensures internet service providers (ISPs) cannot favor some data over other data—has been contested by large telecom providers and their pro-corporate political allies for years. Initially instituted by the FCC Open Internet Order of 2010, the regulations suffered a setback when in 2014 the DC Circuit Court ruled in favor of Verizon, which had argued the FCC had no authority to enforce the existing legislation. After extreme pressure by the public, the FCC ruled in 2015 to reclassify broadband providers as “common carriers,” thereby re-establishing regulatory control. But shortly following the election of Donald Trump and the installment of a new FCC Chairman, plans were outlined to reverse the 2015 order, with the commission’s panel of three voting two to one in favor of repeal this past May. Today’s news merely establishes a date for the death knell: an FCC meeting on December 14th.
+
+
+
+Net neutrality establishes an even playing field that is utterly essential for continued innovation.
+
+Advertisement - Continue Reading Below
+
+In principle, net neutrality is simple and self-evidently good for internet users. Net neutrality ensures that all bits and bytes that travel across an ISPs network are treated equally, regardless of whether they are part of streaming video, email, Instagram pictures, or bad tweets. This ensures that any company or service, a titan like Facebook or an app coded by your next-door neighbor, has an equal chance of success on the internet. It establishes an even playing field that is utterly essential for continued technological innovation. Net neutrality is what gave a little website called Google the footing to topple stagnating giants like Alta Vista and Yahoo.
+
+Advertisement - Continue Reading Below
+
+Advertisement - Continue Reading Below
+
+This free nature of the internet—a highway with no fast or slow lanes—has its downsides. Bandwidth is limited by the cables used to deliver it, and expanding the infrastructure is time-intensive and expensive. As streaming video and increasingly bandwidth-hungry services eat up more and more of the available space, ISPs argue that net neutrality hamstrings their ability to explore solutions like paid-tiers for certain services. Moreover, ISPs tend to argue, their classification as a "common carrier"—which expands 83-year-old legislation to put them in a regulatory category along with things like natural gas pipelines—prevents them from building additional infrastructure that is sorely needed.
+
+These arguments are not completely unfounded, but they ignore the true horror of an unregulated internet for you and me. The lack of net neutrality would allow companies like Comcast to charge extra for Netflix in an attempt to force viewers to its own, competing, inferior Xfinity streaming service. Verizon could institute wide-ranging data caps on its FIOS service and offer exemptions only to services that can afford to pay a ransom. Spectrum could remove Facebook for its existing subscriptions, and only offer access at a higher, premium tier.
+
+
+
+Binge On hides a stultifying shift that concentrates power among the already powerful.
+
+Opponents to net neutrality would argue these examples are outlandish and that regulation, in addition to practical downsides, is not really necessary because none of this would happen. There is, however, plenty of evidence to the contrary. Wireless providers, which are not subject to the same strict net neutrality regulations as ISPs, are already exploring this dystopian future. Look no further than T-Mobile’s “Binge On” promotion, which allows data sent by certain established services like Netflix and Hulu to be exempt for the data caps that plague the wireless industry. These promotions are especially insidious because they appear to be terrifically consumer-friendly at first glance (and, in the short term, they are!) while they hide a stultifying shift that concentrates power around the companies that already have money and prominence, shielding them from the full brunt of meaningful competition that could unseat them or force them to improve. In Portugal matters are even worse, and unregulated internet providers have already started selling access in the form of tiered cable-esque packages.
+
+It’s easy to imagine similar changes coming to your ISP if regulations permitted, but the internet situation on the ground is actually even worse. Unlike wireless carriers, which nominally compete inside their little half-dozen-member oligopoly, ISPs tend to be legally-permitted regional monopolies, which means that internet users who would suffer under these emerging hellish business models would have effectively no recourse. The prospect of a non-neutral internet future is soul-crushingly grim.
+
+
+
+Advertisement - Continue Reading Below
+
+So if net neutrality is so good, why is it consistently under attack? There’s the ever-present political gravity that large corporations like telecoms have through lobbying power and campaign donations, of course, but this power is particularly outsized in the FCC where commissioners tend to have compromising ties to big-time ISPs. Former FCC Chairman Tom Wheeler (who ultimately ruled over the preservation of net neutrality in 2015) was previously a cable industry lobbyist and president of the National Cable & Telecommunications Association (NCTA), which represents 90 percent of the United States Cable Industry. Current Chairman Ajit Pai used to work for Verizon, which you’ll recall, brought the suit that negated net neutrality back in 2014. What’s more, as Senate-confirmed Presidential appointees, FCC commissioners are generally insulated for public pressure which puts them in a terrific position to acquiesce to ISPs demands to the exclusion of the broader welfare of internet users at large.
+
+
+
+Advertisement - Continue Reading Below
+
+Advertisement - Continue Reading Below
+
+FCC chairpersons tend to have compromising ties to big-time ISPs.
+
+There is hope however. The 2015 victory at maintaining net neutrality was in large part the result of an enormous public pressure campaign aimed at then-chairman Wheeler, which took the form of an avalanche of messages rejecting the non-neutrality proposal during its open-comment period. A similar open-comment period saw such comments increase by an order of magnitude (in part due to explicit direction from John Oliver), but the continued push for repeal indicates the current FCC does not put much stock in the pleas.
+
+Considering the commission’s composition has not changed since the two-to-one vote in favor of repeal in May, there’s little to suggest the situation has materially changed. And as December 14th looms with the potential death of an open internet on the horizon, there’s really only one way to fight back. Call the FCC, call your representatives. Turn up the pressure any way you can.
+
+The only way out is to scream like hell.
+

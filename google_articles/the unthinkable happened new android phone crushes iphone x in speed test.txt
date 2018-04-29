@@ -1,0 +1,16 @@
+http://bgr.com/2017/11/21/iphone-x-review-speed-vs-oneplus-5t/
+The unthinkable happened: New Android phone crushes iPhone X in speed test
+Zach Epstein, Chris Smith, Mike Wehner
+Apple’s hot new iPhone X has it all. From design and display quality to features and performance, the tenth-anniversary iPhone is a class-leading smartphone through and through. The design in particular has been praised to no end. In fact, even some of the iPhone X’s harshest critics (myself included) have come around to love the controversial “notch” design with the phone’s display.
+
+Of course, the sleek design and gorgeous display are only half of the equation here. The software side of the user experience is even more important, and the iPhone X delivers there as well. Benchmark test scores are off the charts, and we’ve seen time and time again what the iPhone X’s A11 Bionic processor is capable of. But savvy Apple fans know that despite how impressive the iPhone X’s performance is compared to most devices out there, there’s something that has been holding the phone back. Now, that issue has caused the iPhone X to lose its title as the reigning speed test champ.
+
+On its surface, iOS 11 has been a pretty terrific update. There are new features and refinements abound, and iOS 11 on the iPhone X introduced a slew of smooth new gestures that further enhance the user experience. But beneath the surface, iOS 11 has also been marred by issues with RAM management.
+
+You wouldn’t know it considering how well the iPhone X has performed thus far in speed tests against rival Android phones, but the phone is actually being held back right now by issues with its operating system. Apple is working to address these issues, but there is currently no fix in place in the latest release build of iOS. As a result, a new champ snuck in and stole the iPhone’s speed test crown.
+
+YouTube channel EverythingApplePro got its hands on the new OnePlus 5T and pitted it against the iPhone X in a real-world speed test showdown. We already told you about how much faster the OnePlus 5T’s Face Unlock is than Face ID, though it is far less secure, and now we can see how the two phones perform in other areas.
+
+This test doesn’t use the “lap” format that most similar tests have adopted, but the results are still pretty clear. The new OnePlus 5T runs a near-stock version of Android Nougat, which has been refined over the past year. Meanwhile, Apple’s iPhone is running the newer iOS 11 platform that still has some serious bugs to iron out. That’s right… this is one rare instance where Android fragmentation paid off, at least in terms of speed.
+
+Check out the full test below.
