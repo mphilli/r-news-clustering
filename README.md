@@ -9,11 +9,11 @@ The news corpus was analyzed using:
 
 * Word clouds based on token frequency
 
-<img src="images/wordclouds.PNG">
+<img src="images/wordclouds.PNG" height="65%" width="65%">
 
 * [Association rules](https://en.wikipedia.org/wiki/Association_rule_learning) to discover important relationships among words
 
-<img src="images/assoc.PNG">
+<img src="images/assoc.PNG" height="65%" width="65%">
 
 * k-means clustering to explore article similarity
   * For this task, each article was assigned a unique number, which could be explored using a 2D plot (using [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis) for dimensionality reduction) and a cluster dendrogram. 
